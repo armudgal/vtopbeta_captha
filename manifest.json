@@ -2,7 +2,7 @@
 	"manifest_version" : 2,
 
 	"name" : "VTOPBeta Captcha fill",
-	"description" : "This Extension will Automatically fill the captcha",
+	"description" : "This Extension will Automatically fill the captcha in vtopbeta login",
 	"version" : "1.0",
 
 	"content_scripts": [
